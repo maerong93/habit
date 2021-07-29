@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/maerong93/habit/static/css/main.e1bd5e19.chunk.css",
+    "main.js": "/maerong93/habit/static/js/main.474831e6.chunk.js",
+    "main.js.map": "/maerong93/habit/static/js/main.474831e6.chunk.js.map",
+    "runtime-main.js": "/maerong93/habit/static/js/runtime-main.92004bb9.js",
+    "runtime-main.js.map": "/maerong93/habit/static/js/runtime-main.92004bb9.js.map",
+    "static/js/2.aa2905a3.chunk.js": "/maerong93/habit/static/js/2.aa2905a3.chunk.js",
+    "static/js/2.aa2905a3.chunk.js.map": "/maerong93/habit/static/js/2.aa2905a3.chunk.js.map",
+    "index.html": "/maerong93/habit/index.html",
+    "static/css/main.e1bd5e19.chunk.css.map": "/maerong93/habit/static/css/main.e1bd5e19.chunk.css.map",
+    "static/js/2.aa2905a3.chunk.js.LICENSE.txt": "/maerong93/habit/static/js/2.aa2905a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92004bb9.js",
+    "static/js/2.aa2905a3.chunk.js",
+    "static/css/main.e1bd5e19.chunk.css",
+    "static/js/main.474831e6.chunk.js"
+  ]
+}
